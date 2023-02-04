@@ -1,0 +1,19 @@
+{
+  "workbench.colorTheme": "Default High Contrast",
+  "files.associations": {
+    "*html": "html"
+  },
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.visible": true,
+  "editor.minimap.enabled": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 15,
+  "editor.tabSize": 3
+}
